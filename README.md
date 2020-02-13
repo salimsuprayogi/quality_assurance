@@ -1,2 +1,2 @@
-# quality_assurance
+# Quality Assurance
 Ikhtisar Tentang Quality Assurance
