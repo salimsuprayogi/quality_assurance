@@ -10,3 +10,4 @@ It is the Degree to which a system meets specified requirements and customer exp
 # Daftar Ikhtisar
   1. Software Testing
   2. Software Testing Life Cycle ( STLC )
+  3. Quality Assurance
